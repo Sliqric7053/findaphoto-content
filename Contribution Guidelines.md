@@ -1,4 +1,4 @@
-Contribution Guidelines
+<h1>Contribution Guidelines<h1>
 
 Please ensure your pull request adheres to the following guidelines:
 
